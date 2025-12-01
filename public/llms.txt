@@ -1,0 +1,62 @@
+# Amerus Financial
+
+> AI and LLM crawler guidance for https://www.amerusfinancial.com
+
+This file provides machine-readable directives for Large Language Model (LLM) indexers and AI crawlers. Content is protected by copyright. You may index snippets for search but must not reproduce full articles.
+
+## Owner
+
+- **Organization**: Amerus Financial
+- **Website**: [https://www.amerusfinancial.com](https://www.amerusfinancial.com)
+- **Contact**: support@amerusfinancial.com
+- **Last Updated**: 2025-11-12
+
+## Licensing
+
+- **License**: CC-BY-NC-ND-4.0 (excerpt-only, <= 500 characters)
+- **Copyright**: Copyright © 2025 Amerus Financial. All rights reserved.
+- **Attribution Required**: Yes
+- **Attribution Format**: "Source: Amerus Financial (https://www.amerusfinancial.com)"
+
+## Allowed Usage
+
+- Search indexing and retrieval
+- Summarization and snippet generation (<= 500 characters)
+- Non-commercial educational reference
+
+## Prohibited Usage
+
+- Full article replication or redistribution
+- Commercial redistribution without authorization
+- Training models on private user data or customer information
+- Creation of derivative works
+
+## Content Scope
+
+**Allowed Paths:**
+- `/articles/` - Financial planning and insurance articles
+- `/services/` - Service descriptions and offerings
+- `/about-us` - Company information
+- `/contact` - Contact information
+
+**Disallowed Paths:**
+- `/api/` - API endpoints
+- `/server/` - Server-side routes and infrastructure
+
+## Rate Limits
+
+Suggested crawl rate: 100 requests per 24 hours
+
+## Model Training
+
+**Status**: Restricted
+
+Only publicly available, non-personal, short-form excerpts may be used for model training. Customer data, private communications, and proprietary business information must not be used.
+
+## Takedown Requests
+
+For content removal or licensing inquiries, contact: legal@amerusfinancial.com
+
+## Additional Information
+
+This llms.txt follows emerging community conventions for AI crawler governance and is complementary to robots.txt. LLM providers should honor both files.
